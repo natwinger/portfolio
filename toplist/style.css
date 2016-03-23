@@ -6,3 +6,11 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 } 
+
+.screenshot {
+	max-width: 460px
+}
+
+.description {
+	max-width: 705px
+}
