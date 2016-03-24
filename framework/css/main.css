@@ -4,6 +4,9 @@
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
 }
+* {
+	font-family: 'Cantarell', sans-serif;
+}
 
 @media only screen and (max-width: 300px) {
 	p {
@@ -16,7 +19,9 @@
     max-width: 1200px;
     width: 100%;
 }
-
+.main-img {
+	width: 100%;
+}
 .row {
 	width: 100%;
 	display: flex;
